@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: jaivrat12.github.io
-Token: cf4a967c86d2a8e2693b3d716cc018cc1fe1fad6c68f320ca8f8b585d92d4b62
+Token: 2932d77011382343ceafc46d7d588b06396d6af631050f5edfd304003022ae9a
